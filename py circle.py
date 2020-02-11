@@ -1,0 +1,6 @@
+r=input("Enter radius(cm)")
+P=input("enter PI: ")
+C=int(r)*2*float(P)
+A=int(r)*int(r)*float(P)
+print("circumference is "+str(C),"cm")
+print("Area is "+str(A),"cm^2")

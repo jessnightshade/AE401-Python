@@ -17,6 +17,6 @@ while i<5:
     else:
         print('try again') 
     i=i+1    
-while i==5:
+if i==5:
     print('you fail')
     

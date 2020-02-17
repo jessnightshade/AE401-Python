@@ -10,8 +10,8 @@ scorelist=[]
 namelist=[]
 high=0
 low=100
-highname=''
-lowname=''
+highname=str()
+lowname=str()
 for i in range (int(num)):
     students_name=input('student:')
     score=input('score:')
